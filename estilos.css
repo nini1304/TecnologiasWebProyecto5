@@ -1,0 +1,76 @@
+@font-face{    font-family: 'moderno';   
+    src: url(/assets/fuentes/cubic.ttf) format('truetype');  
+    font-weight: normal;  
+    font-style: normal;
+}
+#banner{
+    background-color: #EFEFEF;
+}
+#logo{
+    width: 100px; 
+    height: 130px;
+}
+#titulo{
+    margin-left: 400px;
+    font-family: moderno;
+    color: #0A1931;
+}
+#cuerpo{
+    background-color: white;
+    
+}
+#cuerpo1{
+    background-image: url(/assets/imagenes/fondo2.png);
+    
+}
+
+#texto{
+    opacity: 0.7;
+    background-color: black;
+    color: white;
+   
+}
+#titulo1{
+    color: white;
+}
+#cajita{
+    border-radius: 50px;
+}
+#boton{
+    background-color:#FFC947;
+    border-color: #FFC947;
+}
+#imagen1{
+    margin-left: 200px;
+    margin-top: 50px;
+    width: 500px;
+}
+#primera{
+    margin-top: 100px;
+    margin-left: 350px;
+}
+#segunda{
+    margin-top: 100px;
+    
+}
+
+#imagen1{
+    width: 40px;
+    height: 40px;
+}
+#cuerpo3{
+    background-color: #0A1931;
+}
+#texto3{
+    color: white;
+}
+#tercera{
+    margin-left: 700px;
+}
+#tres{
+    margin-top: 100px;
+}
+#titulo3{
+    font-family: moderno;
+    color: #0A1931;
+}
